@@ -5,6 +5,15 @@
     <language>en</language>
     <!-- ITEMS -->
     <item>
+      <title>Litigation Kiosk 1.2</title>
+      <pubDate>Fri, 30 Oct 2026 16:44:53 +0000</pubDate>
+      <sparkle:version>3</sparkle:version>
+      <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26</sparkle:minimumSystemVersion>
+      <description><![CDATA[<pre>- Version bump to 1.2; first release delivered through the self-update feed.</pre>]]></description>
+      <enclosure url="https://github.com/ijasonwhite/litigation-kiosk-updates/releases/download/v1.2/LitigationKiosk-1.2.apk" sparkle:sha256="421ad17dd3e9baed8c170ca5200972726e93f1607eb7c6d605bf54fb50a0b42a" length="12585548" type="application/vnd.android.package-archive"/>
+    </item>
+    <item>
       <title>Litigation Kiosk 1.1</title>
       <pubDate>Fri, 30 Oct 2026 16:41:13 +0000</pubDate>
       <sparkle:version>2</sparkle:version>
