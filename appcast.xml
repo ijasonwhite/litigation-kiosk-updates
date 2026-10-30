@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Litigation Kiosk</title>
+    <language>en</language>
+    <!-- ITEMS -->
+    <item>
+      <title>Litigation Kiosk 1.1</title>
+      <pubDate>Fri, 30 Oct 2026 16:41:13 +0000</pubDate>
+      <sparkle:version>2</sparkle:version>
+      <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26</sparkle:minimumSystemVersion>
+      <description><![CDATA[<pre>- Read-only: the kiosk never marks emails read; unread always mirrors Outlook.
+- Live status bar: connecting, fetching, Adam classifying n of m.
+- Classification runs until the queue is empty.
+- Emails moved or archived out of the inbox drop off the tiles.
+- First sync loads 14 days (configurable); later syncs fetch only new mail.
+- Self-update from this feed. No credentials in the APK; see SETUP.txt.</pre>]]></description>
+      <enclosure url="https://github.com/ijasonwhite/litigation-kiosk-updates/releases/download/v1.1/LitigationKiosk-1.1.apk" sparkle:sha256="35f9c2f49253f4b74770e6d943a0f4f961390a75fe914a605b7df4bbd1d31fa8" length="12585548" type="application/vnd.android.package-archive"/>
+    </item>
+  </channel>
+</rss>
