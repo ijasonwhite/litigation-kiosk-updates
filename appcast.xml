@@ -5,6 +5,17 @@
     <language>en</language>
     <!-- ITEMS -->
     <item>
+      <title>Litigation Kiosk 1.3</title>
+      <pubDate>Sat, 31 Oct 2026 17:41:29 +0000</pubDate>
+      <sparkle:version>4</sparkle:version>
+      <sparkle:shortVersionString>1.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26</sparkle:minimumSystemVersion>
+      <description><![CDATA[<pre>- Email content is now PIN protected: tiles stay public, opening a tile or email asks for a PIN. Admin PIN starts as 5555 and must be changed on first use. Add named users with their own PINs in Settings. Relocks after 3 minutes idle.
+- Each email in a list shows why Adam put it there.
+- Email bodies are cleaned of quoted history, signatures, disclaimers and link wrapping; tap to see the original.</pre>]]></description>
+      <enclosure url="https://github.com/ijasonwhite/litigation-kiosk-updates/releases/download/v1.3/LitigationKiosk-1.3.apk" sparkle:sha256="ebf7cfb7b03cec360dd8bb1eb1b5e5d22bd0b2ce4445c96a16ffd36ec0efad01" length="12601932" type="application/vnd.android.package-archive"/>
+    </item>
+    <item>
       <title>Litigation Kiosk 1.2</title>
       <pubDate>Fri, 30 Oct 2026 16:44:53 +0000</pubDate>
       <sparkle:version>3</sparkle:version>
