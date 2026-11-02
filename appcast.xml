@@ -5,6 +5,19 @@
     <language>en</language>
     <!-- ITEMS -->
     <item>
+      <title>Litigation Kiosk 1.5</title>
+      <pubDate>Mon, 02 Nov 2026 11:10:17 +0000</pubDate>
+      <sparkle:version>6</sparkle:version>
+      <sparkle:shortVersionString>1.5</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26</sparkle:minimumSystemVersion>
+      <description><![CDATA[<pre>- Dynamics 365 CRM enrichment: sender -&gt; contact/account, case references -&gt; Legal Case, shown on lists and detail and given to Adam (read-only)
+- Deadlines board: the CRM &quot;Deadlines Today&quot; view on the kiosk, under the tiles or on its own tab
+- Dynamics signs in as the kiosk registration by default; a separate registration is optional
+- Web admin: links to the right admin pages, debug log of every request, response and Adam transcript
+- Toggles to hide the read-only note and the error banner on the kiosk screen</pre>]]></description>
+      <enclosure url="https://github.com/ijasonwhite/litigation-kiosk-updates/releases/download/v1.5/LitigationKiosk-1.5.apk" sparkle:sha256="084dc5ee9d55f59af35f84f806f7d4cc5731c65a64c8f83cbfc920d301a5e2b3" length="12683884" type="application/vnd.android.package-archive"/>
+    </item>
+    <item>
       <title>Litigation Kiosk 1.4</title>
       <pubDate>Sat, 31 Oct 2026 17:44:25 +0000</pubDate>
       <sparkle:version>5</sparkle:version>
