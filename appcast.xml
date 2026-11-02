@@ -5,6 +5,19 @@
     <language>en</language>
     <!-- ITEMS -->
     <item>
+      <title>Litigation Kiosk 1.8</title>
+      <pubDate>Mon, 02 Nov 2026 13:19:16 +0000</pubDate>
+      <sparkle:version>9</sparkle:version>
+      <sparkle:shortVersionString>1.8</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26</sparkle:minimumSystemVersion>
+      <description><![CDATA[<pre>- Every user can log in to the web pages with their PIN; admins get everything, others only the deadline boards ticked for them in Users
+- Deadlines today and Deadlines next week served over HTTP as cards, with owner drill-down
+- Case references open the record in Dynamics 365
+- Network name: pages reachable at http://litigation-kiosk.local:8080/ (configurable, mDNS)
+- Owner tap works from the name alone when the id is missing</pre>]]></description>
+      <enclosure url="https://github.com/ijasonwhite/litigation-kiosk-updates/releases/download/v1.8/LitigationKiosk-1.8.apk" sparkle:sha256="c28e809baab0f900a0c0b22455f9fdf5b2d8cc492884aeea6e961c446e4b68f4" length="12733084" type="application/vnd.android.package-archive"/>
+    </item>
+    <item>
       <title>Litigation Kiosk 1.7</title>
       <pubDate>Mon, 02 Nov 2026 12:07:49 +0000</pubDate>
       <sparkle:version>8</sparkle:version>
