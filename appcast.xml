@@ -5,6 +5,18 @@
     <language>en</language>
     <!-- ITEMS -->
     <item>
+      <title>Litigation Kiosk 1.7</title>
+      <pubDate>Mon, 02 Nov 2026 12:07:49 +0000</pubDate>
+      <sparkle:version>8</sparkle:version>
+      <sparkle:shortVersionString>1.7</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26</sparkle:minimumSystemVersion>
+      <description><![CDATA[<pre>- Deadlines next week board: the &quot;Deadlines in Next Week&quot; view as cards grouped by day, with a per-day count strip
+- Tap an owner on any deadline card to see all their open cases with the next outstanding deadline on each
+- Chevron to collapse the kiosk header
+- Adam prompt now states the real sender, domain, subject and date as authoritative headers so sender-based rules are judged correctly</pre>]]></description>
+      <enclosure url="https://github.com/ijasonwhite/litigation-kiosk-updates/releases/download/v1.7/LitigationKiosk-1.7.apk" sparkle:sha256="3a3854048a48d08f35403e64597f72a2520bcbde158c509653f22eb42aa35aa5" length="12700268" type="application/vnd.android.package-archive"/>
+    </item>
+    <item>
       <title>Litigation Kiosk 1.6</title>
       <pubDate>Mon, 02 Nov 2026 11:35:37 +0000</pubDate>
       <sparkle:version>7</sparkle:version>
