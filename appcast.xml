@@ -5,6 +5,16 @@
     <language>en</language>
     <!-- ITEMS -->
     <item>
+      <title>Litigation Kiosk 1.6</title>
+      <pubDate>Mon, 02 Nov 2026 11:35:37 +0000</pubDate>
+      <sparkle:version>7</sparkle:version>
+      <sparkle:shortVersionString>1.6</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26</sparkle:minimumSystemVersion>
+      <description><![CDATA[<pre>- Deadlines board: the Legal Case &quot;Deadlines Today&quot; view as cards on the kiosk, under the tiles or on its own tab; deadline type, overdue/due today, case, client v other party, owner, claim no, court, last updated; refreshes every 5 minutes
+- Faster retry after a network failure, clearer message when the CRM cannot be reached</pre>]]></description>
+      <enclosure url="https://github.com/ijasonwhite/litigation-kiosk-updates/releases/download/v1.6/LitigationKiosk-1.6.apk" sparkle:sha256="4e60b2e30916caf74ed1b20811a63ea8d831a1823ca4699e7daa724b6e554d10" length="12683884" type="application/vnd.android.package-archive"/>
+    </item>
+    <item>
       <title>Litigation Kiosk 1.5</title>
       <pubDate>Mon, 02 Nov 2026 11:10:17 +0000</pubDate>
       <sparkle:version>6</sparkle:version>
