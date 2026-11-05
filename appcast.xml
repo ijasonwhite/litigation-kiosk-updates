@@ -5,6 +5,18 @@
     <language>en</language>
     <!-- ITEMS -->
     <item>
+      <title>Litigation Kiosk 1.10</title>
+      <pubDate>Thu, 05 Nov 2026 12:21:31 +0000</pubDate>
+      <sparkle:version>11</sparkle:version>
+      <sparkle:shortVersionString>1.10</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26</sparkle:minimumSystemVersion>
+      <description><![CDATA[<pre>- Case cards show who each deadline is tasked to (new CA - Tasked To fields in the CRM), on the kiosk, web boards and owner view
+- Owner view also lists schedule of loss, N244 and Precedent U deadlines
+- Email bodies keep their line breaks (fetched as HTML and converted on the device); Mimecast banners and warning lines stripped; forwarded emails keep the forwarded content
+- Web settings links wrap inside their box</pre>]]></description>
+      <enclosure url="https://github.com/ijasonwhite/litigation-kiosk-updates/releases/download/v1.10/LitigationKiosk-1.10.apk" sparkle:sha256="b7a40334cce25be49f6ca059088eaa78e4b74bd3f909619af4b8349ac440d254" length="12733084" type="application/vnd.android.package-archive"/>
+    </item>
+    <item>
       <title>Litigation Kiosk 1.9</title>
       <pubDate>Mon, 02 Nov 2026 13:35:03 +0000</pubDate>
       <sparkle:version>10</sparkle:version>
