@@ -5,6 +5,16 @@
     <language>en</language>
     <!-- ITEMS -->
     <item>
+      <title>Litigation Kiosk 1.11</title>
+      <pubDate>Thu, 05 Nov 2026 17:25:17 +0000</pubDate>
+      <sparkle:version>12</sparkle:version>
+      <sparkle:shortVersionString>1.11</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26</sparkle:minimumSystemVersion>
+      <description><![CDATA[<pre>- Deadline cards redesigned: coloured header band with what is due and when, case reference and parties under it, one people line (tasked to, owner) and one context line (claim no, court, last updated). About half the height.
+- &quot;by end of day&quot; filler removed; a clock time still shows when the CRM has one</pre>]]></description>
+      <enclosure url="https://github.com/ijasonwhite/litigation-kiosk-updates/releases/download/v1.11/LitigationKiosk-1.11.apk" sparkle:sha256="352f4e88d8374c1085d155987c9f92ff72ffb26b7ed08fa87a5b249b5487e1ca" length="12733084" type="application/vnd.android.package-archive"/>
+    </item>
+    <item>
       <title>Litigation Kiosk 1.10</title>
       <pubDate>Thu, 05 Nov 2026 12:21:31 +0000</pubDate>
       <sparkle:version>11</sparkle:version>
